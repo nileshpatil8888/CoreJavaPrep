@@ -1,0 +1,5 @@
+Map :
+    A collection that maps keys to values. It does not allow duplicate keys but allows duplicate values.
+    common implementations : HashMap, Treemap, LinkedHashmap, hashtable
+    Methods : put(), get(), containsKey, remove() etc.
+

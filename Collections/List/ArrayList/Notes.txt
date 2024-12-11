@@ -1,0 +1,2 @@
+Definition : It allows random access and is efficient for search operations.
+use case : Suitable for scenarios where frequent access to elements is required, but insertions and deletions are infrequent.
